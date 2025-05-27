@@ -1,0 +1,53 @@
+
+/* Author : Afra N K
+   Date : 01/05/2025  */
+
+
+ /* Completed task style */
+    .completed .task-text {
+      text-decoration: line-through;
+      color: gray;
+    }
+
+    /* Task text style */
+    .task-text {
+      flex: 1;
+      cursor: pointer;
+    }
+
+    /* Green tick button */
+    .complete-btn {
+      color: green;
+      cursor: pointer;
+      font-size: 24px;
+      user-select: none;
+      transition: color 0.3s ease;
+      margin-left: 10px;
+    }
+    .complete-btn:hover {
+      color: darkgreen;
+    }
+
+    /* Red X button */
+    .delete-btn {
+      color: red;
+      cursor: pointer;
+      font-size: 24px;
+      user-select: none;
+      transition: color 0.3s ease;
+      margin-left: 10px;
+    }
+    .delete-btn:hover {
+      color: darkred;
+    }
+
+    .task-text {
+  flex: 1;
+  word-break: break-word;
+}
+
+.list-group-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
