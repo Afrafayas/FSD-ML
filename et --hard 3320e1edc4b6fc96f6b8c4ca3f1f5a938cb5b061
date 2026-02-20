@@ -1,0 +1,61 @@
+[33mcommit 27dfbb6c139cf9a329071c47879c8c475346f948[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Thu Feb 19 14:48:38 2026 +0400
+
+    Add Assignment 5 and other projects
+
+[33mcommit 3320e1edc4b6fc96f6b8c4ca3f1f5a938cb5b061[m
+Merge: 73f7d00 b400507
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Thu Feb 19 14:37:24 2026 +0400
+
+    Merge branch 'main' of https://github.com/Afrafayas/FSD-ML
+
+[33mcommit 73f7d0023a3c3f37c6419833e6096f4ab8d70ddc[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Thu Feb 19 14:29:51 2026 +0400
+
+    Added Assignment 12 - Inventory API
+
+[33mcommit b400507db44536e48dd215cbc070e1b36eb05280[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Wed Sep 10 02:09:24 2025 +0400
+
+    Add assignment-11
+
+[33mcommit 317d4c26a70103eeaab98ba55e36b0cf77cdde63[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Wed May 28 04:54:25 2025 +0400
+
+    Assignment9
+
+[33mcommit 1d869e7c308304e566e3f04f19a5b0547d2280c1[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Wed May 28 03:59:18 2025 +0400
+
+    Assignment 10
+
+[33mcommit 619cbc550b61b84658c07d800404f34170cc6e5a[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Tue May 27 23:18:51 2025 +0400
+
+    Added Assignment 8
+
+[33mcommit 7dadb74447953b2742392771ad44f61a51247a44[m
+Merge: 9bd08d4 2c6b379
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Tue May 27 21:00:27 2025 +0400
+
+    Renamed folder javascript to Assignment 7
+
+[33mcommit 9bd08d482545b6de4bb579db8c6b9fb787b1e274[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Tue May 27 20:50:40 2025 +0400
+
+    Added Assignment 7 folder
+
+[33mcommit 2c6b3792de843b7fdbc960f4082f42dd9fdc283c[m
+Author: Afra Fayas <afrafayask@gmail.com>
+Date:   Tue May 27 20:34:54 2025 +0400
+
+    Initial commit-Assignment-7
